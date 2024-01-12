@@ -2,12 +2,6 @@ personal website - athjad.com
 
 to do:
 
-Creating a personal website similar to Derek Sivers' site at sive.rs is a great idea, especially if you're looking to share your ideas, projects, and learnings in a structured and accessible way. Here's a format you can consider for your website, inspired by Derek Sivers' style:
-
----
-
-# [Your Name]'s Personal Space
-
 ## Welcome Message
 
 - A brief introduction about who you are, your interests, and what this website is about.
