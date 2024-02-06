@@ -24,10 +24,6 @@ export default function Home ({ allPostsData }) {
         <p>Hello, I'm Atharva. I'm trying to build stuff. I'll be documenting it here.
           You can contact me on <a href="https://twitter.com/ethrva">Twitter</a>.
         </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
