@@ -16,8 +16,6 @@ author: You
 
 ##### h5 Heading
 
-###### h6 Heading
-
 ## Emphasis
 
 **This is bold text**
